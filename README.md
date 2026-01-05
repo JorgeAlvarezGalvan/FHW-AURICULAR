@@ -4,7 +4,7 @@
 
 Un **auricular** es un periférico de salida de audio que permite escuchar sonidos generados por un dispositivo electrónico como ordenadores, teléfonos móviles, tablets o consolas. Algunos auriculares incorporan micrófono, por lo que también pueden funcionar como periféricos de entrada.
 
-![Auriculares](images/auricular.jpg)
+![Auriculares](images/auricular.png)
 
 ---
 

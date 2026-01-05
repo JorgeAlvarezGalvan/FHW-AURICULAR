@@ -44,7 +44,7 @@ Auriculares intraurales inalámbricos con cancelación de ruido, estuche de carg
 
 ---
 
-## 5. Conclusiones
+[## 5. Conclusiones](references.md)
 
 Los auriculares son un periférico esencial en la actualidad, tanto para el ocio como para el trabajo. Su variedad de tipos permite adaptarse a diferentes necesidades como videojuegos, llamadas, estudios o entretenimiento. Gracias a los avances tecnológicos, ofrecen cada vez mejor calidad de sonido y mayor comodidad.
 

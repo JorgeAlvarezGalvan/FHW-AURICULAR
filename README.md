@@ -40,7 +40,7 @@ Auriculares inalámbricos con cancelación activa de ruido, gran autonomía y ex
 
 ### Apple AirPods Pro
 Auriculares intraurales inalámbricos con cancelación de ruido, estuche de carga y gran integración con dispositivos Apple.
-![Auricularesapple](images/auricularapple.jpg)
+![Auricularesapple](images/auricularesapple.png)
 
 ---
 
